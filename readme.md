@@ -2,14 +2,14 @@
 
 ## What does this project do?
 
-This theme for Drupal 8 is a sub-theme of Classy.  
-The build tasks are run by Gulp. 
-You can see an example of how the libraries (css and javascript) are included.  
-Templates are from core/modules/system.  You can see how some of them are over-ridden. 
-You can see conditional twig logic using of a page variable in html--front.html.twig.
-Partials are used to manage header and footer output.
-Some neat svg images are base64 encoded and included as sass variables.
-Under sass there's a folder drupal-bem, that's a reference for common selectors in Drupal 8.
+- This is a Drupal 8 sub-theme of Classy.  
+- The build tasks are run by Gulp. 
+- You can see an example of how the libraries (css and javascript) are included.  
+- Templates are from core/modules/system.  You can see how some of them are over-ridden. 
+- You can see conditional twig logic using of a page variable in html--front.html.twig.
+- Partials are used to manage header and footer output.
+- Some neat svg images are base64 encoded and included as sass variables.
+- Under sass there's a folder drupal-bem, that's a reference for common selectors in Drupal 8.
 
 ## Set up
 
