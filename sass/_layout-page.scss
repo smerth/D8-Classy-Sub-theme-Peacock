@@ -1,0 +1,21 @@
+
+
+.layout-content{
+    @include span(7.4);
+
+}
+
+.layout-sidebar-first{
+    @include span(2.8);
+
+}
+
+.layout-sidebar-second{
+    @include span(1.8 last);
+
+}
+
+footer {
+    @include span(12);
+
+}

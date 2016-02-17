@@ -1,0 +1,112 @@
+// ++ Susy
+
+$susy: (
+  container-position: center,
+  last-flow: to,
+  columns: 12,
+  gutters: 1 / 4,
+  gutter-position: inside,
+);
+
+// ++ Globals
+html {
+  font-size: 100%;
+}
+
+body {
+  -webkit-font-smoothing: antialiased;
+  background: $body-background-color;
+  background-image: $body-background-image;
+  font-family: sans-serif;
+}
+
+// .layout-content,
+// .layout-sidebar-first,
+// .layout-sidebar-second
+
+.layout-container
+
+main {
+  padding-top: 10px;
+  padding-bottom: 10px;
+  background-color: $main-background-color;
+  overflow: auto;
+  margin-top: 50px;
+}
+
+
+
+* {
+  box-sizing: border-box;
+}
+
+.layout-container {
+  @include container(1100px);
+}
+
+a {
+  text-decoration: none;
+  color: $link-color;
+  &:link {
+    color: $link-color;
+  }
+  &:visited {
+    color: $link-visited-color;
+  }
+  &:hover {
+    color: $link-hover-color;
+  }
+  &:active {
+    color: $link-active-color;
+  }
+}
+
+p {
+  line-height: 1.5;
+
+}
+
+.item-list li {
+  margin-bottom: 15px;
+}
+
+div.views-row {
+  margin-bottom: 30px;
+}
+
+
+// ++ Cleafix
+
+// float clearing for IE6
+* html .clearfix {
+   height: 1%;
+   overflow: visible;
+}
+
+// float clearing for IE7
+*+html .clearfix{
+ min-height: 1%;
+}
+
+// float clearing for everyone else
+.clearfix:after{
+ clear: both;
+ content: ".";
+ display: block;
+ height: 0;
+ visibility: hidden;
+ font-size: 0;
+}
+
+.clr{clear:both;}
+
+.item-list li {
+  margin-left: 0px;
+}
+
+#block-peacock-breadcrumbs {
+  background-color: #88AA34;
+  a {
+    color: white;
+  }
+}

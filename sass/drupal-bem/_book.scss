@@ -1,0 +1,47 @@
+// Book export
+// file: layout/book-export-html.html.twig
+// .section-[i] { }
+
+
+// Book module
+// file: components/book-navigation.css
+// .book-navigation .menu { }
+// .book-navigation .book-pager { }
+// .book-pager__item { }
+// .book-pager__item--previous { }
+// [dir="rtl"] .book-pager__item--previous { }
+// .book-pager__item--center { }
+// .book-pager__item--next { }
+// [dir="rtl"] .book-pager__item--next { }
+
+
+// Book node export
+// file: content/book-node-export-html.html.twig
+// .section-[depth] { }
+// .book-heading { }
+
+
+// Book outlines within a block
+// file: navigation/book-all-books-block.html.twig
+// .book-block-menu { }
+
+
+// Book tree
+// file: navigation/book-tree.html.twig
+// .menu { }
+// .menu-item { }
+// .menu-item--expanded { }
+// .menu-item--collapsed { }
+// .menu-item--active-trail { }
+
+
+// Navigate books
+// file: navigation/book-navigation.html.twig
+// .book-navigation { }
+// .visually-hidden { }
+// .book-pager { }
+// .book-pager__item { }
+// .book-pager__item--previous { }
+// .book-pager__item--center { }
+// .book-pager__item--next { }
+

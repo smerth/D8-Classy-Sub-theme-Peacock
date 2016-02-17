@@ -1,0 +1,41 @@
+// BLOCK
+
+// Basic
+
+// file: block/block.html.twig
+// .block { }
+// .block-[configuration.provider] { }
+// .block-[plugin_id] { }
+
+// Search form
+// file: block/block--search-form-block.html.twig
+// .block { }
+// .block-search { }
+// .container-inline{ }
+
+// Menu
+
+// file: block/block--system-menu-block.html.twig
+// .block { }
+// .block-menu { }
+// .navigation { }
+// .menu--[derivative_plugin_id] { }
+// .visually-hidden { }
+
+// Tabs
+
+// file: block/block--local-tasks-block.html.twig
+// .tabs { }
+
+// Local actions
+
+// file: block/block--local-actions-block.html.twig
+// .action-links { }
+
+
+// branding
+
+// file: block/block--system-branding-block.html.twig
+// .site-logo { }
+// .site-name { }
+// .site-slogan { }

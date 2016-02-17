@@ -1,0 +1,65 @@
+// DATASET
+
+// Item list
+
+// file: dataset/item-list.html.twig
+// .item-list--[context.list_style] { }
+// .item-list__[context.list_style] { }
+// .item-list { }
+
+
+// Search results item list
+
+// file: dataset/item-list--search-results.html.twig
+// .search-results { }
+// .[context.plugin]-results { }
+
+
+// Table
+
+// file: dataset/table.html.twig
+// .is-active { }
+// .odd { }
+// .even { }
+// .empty { }
+// .message { }
+
+
+// List of forums and containers
+
+// file: dataset/forum-list.html.twig
+// .[forum.zebra] { }
+// .container { }
+// .forum-list__forum { }
+// .indented { }
+// .forum__icon { }
+// .forum-status-[forum.icon_class] { }
+// .visually-hidden { }
+// .forum__name { }
+// .forum__description { }
+// .forum__topics { }
+// .forum__posts { }
+// .forum__last-reply { }
+
+
+// Forum
+
+// file: dataset/forums.html.twig
+// .forum { }
+
+
+// Status icon for forum post
+
+// file: dataset/forum-icon.html.twig
+// .forum__icon { }
+// .forum__topic-status--[icon_status] { }
+// .visually-hidden { }
+
+
+
+// Aggregator feed
+
+// file: dataset/aggregator-feed.html.twig
+// .aggregator-feed { }
+
+

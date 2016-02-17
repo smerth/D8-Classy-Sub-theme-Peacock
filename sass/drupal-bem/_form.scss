@@ -1,0 +1,101 @@
+// FORM
+
+// Container to wrap child elements
+// file: form/container.html.twig
+// .js-form-wrapper { }
+// .form-wrapper { }
+
+
+// Fieldset element and its children
+// file: form/fieldset.html.twig
+// .js-form-item { }
+// .form-item { }
+// .js-form-wrapper { }
+// .form-wrapper { }
+// .fieldset-legend { }
+// .js-form-required { }
+// .form-required { }
+// .fieldset-wrapper { }
+// .form-item--error-message { }
+// .field-prefix { }
+// .field-suffix { }
+// .description { }
+
+
+// Form element
+// file: form/form-element.html.twig
+// .js-form-item { }
+// .form-item { }
+// .js-form-type-[type] { }
+// .form-type-[type] { }
+// .js-form-item-[name] { }
+// .form-item-[name] { }
+// .form-no-label { }
+// .form-disabled { }
+// .form-item--error { }
+// .description { }
+// .visually-hidden { }
+// .field-prefix { }
+// .field-suffix { }
+// .form-item--error-message { }
+
+
+// Form element label
+// file: form/form-element-label.html.twig
+// .option { }
+// .visually-hidden { }
+// .js-form-required { }
+// .form-required { }
+
+
+// Individual form element
+// file: form/field-multiple-value-form.html.twig
+// .js-form-item { }
+// .form-item { }
+// .description { }
+// .clearfix { }
+
+
+// Textarea
+// file: form/textarea.html.twig
+// .form-textarea { }
+// .resize-[resizable] { }
+// .required { }
+// .form-textarea-wrapper { }
+
+
+// Datetime form wrapper
+// file: form/datetime-wrapper.html.twig
+// .label { }
+// .js-form-required { }
+// .form-required { }
+// .form-item--error-message { }
+// .description { }
+
+
+// Datetime
+// file: form/datetime-form.html.twig
+// .container-inline { }
+
+
+// Checkboxes
+// file: form/checkboxes.html.twig
+// .form-checkboxes { }
+
+
+// Radios
+// file: form/radios.html.twig
+// .form-radios { }
+
+
+// Details
+// file: form/details.html.twig
+// .details-wrapper { }
+// .form-item--error-message { }
+// .details-description { }
+
+
+// Dropbutton wrapper
+// file: form/dropbutton-wrapper.html.twig
+// .dropbutton-wrapper { }
+// .dropbutton-widget { }

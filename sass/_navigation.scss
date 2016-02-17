@@ -1,0 +1,18 @@
+.main-menu {
+  background-color: $moss-green;
+
+  li {
+    float: left;
+  }
+
+  a {
+    font-size: 24px;
+    display: block;
+    color: $white;
+    text-decoration: none;
+    padding: 10px 20px 10px 0px;
+    &:hover {
+      text-decoration: underline;
+    }
+  }
+}

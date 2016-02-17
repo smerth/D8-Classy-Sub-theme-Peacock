@@ -1,0 +1,27 @@
+name: Peacock
+type: theme
+description: This is a classy sub-theme
+package: Custom
+core: 8.x
+# Defines the base theme
+base theme: classy
+# Remove un-wanted stylesheets
+stylesheets-remove:
+
+# Defines libraries group in which we can add css/js.
+libraries:
+  - core/jquery
+  - core/jquery.once
+  - core/modernizr
+  - peacock/global-css
+  - peacock/global-js
+# Regions
+regions:
+  header: Header
+  main_navigation: Main Navigation
+  featured: Featured
+  breadcrumbs: Breadcrumbs
+  content: Content
+  sidebar_first: First sidebar
+  sidebar_second: Second sidebar
+  footer: Footer

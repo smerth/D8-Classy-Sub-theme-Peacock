@@ -1,0 +1,45 @@
+@import 'variables-base64-images';
+
+// Color Palette
+$white: #fff;
+$moss-green: #728a2a;
+$mindaro: #d3fb61;
+$hint-of-green: #f8fee6;
+$slate-grey: #708091;
+$light-grey: #9ba7b3;
+$dark-grey: #343a41;
+$tan: #dc976e;
+$deep-blue: #0074a8;
+$deep-sky-blue: #01aaf2;
+$spiro-disco-ball: #26bbf5;
+
+// Text colors
+$body-text-color: $slate-grey;
+$header-text-color: $moss-green;
+$page-title-color: green;
+
+
+$abbr-text-color: $dark-grey;
+$footer-text-color: $hint-of-green;
+$footer-link-color: $white;
+$pull-quote-color: $tan;
+
+// Links
+$link-color: $deep-blue;
+$link-visited-color: $deep-sky-blue;
+$link-hover-color: $moss-green;
+$link-active-color: $slate-grey;
+
+
+
+
+
+// Background colors
+$body-background-color: $hint-of-green;
+
+
+// Background Images
+$header-background-image: $wavey-grey;
+$body-background-image: $microbial-mat;
+$main-background-color: rgba(249, 254, 235, .85);
+$footer-background-image: $blue-stripes;

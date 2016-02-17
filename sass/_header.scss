@@ -1,0 +1,37 @@
+.header {
+  background-image: $header-background-image;
+  height: 150px;
+  padding-top: 25px;
+
+  .site-logo {
+    @include span(2)
+    margin-right: 25px;
+
+    img {
+      width: 50%;
+      }
+    }
+}
+
+.front-page .header {
+  height: 295px;
+  padding-top: 50px;
+
+  .site-logo {
+
+    img {
+      width: 100%;
+    }
+  }
+}
+
+.site-name {
+  a {
+    color: $white;
+    text-decoration: none;
+  }
+}
+
+.site-slogan {
+  color: $mindaro;
+}

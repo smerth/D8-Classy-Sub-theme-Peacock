@@ -1,0 +1,86 @@
+// VIEWS
+
+// Main view template
+// file: views/views-view.html.twig
+// .view { }
+// .view-[id] { }
+// .view-display-id-[display_id] { }
+// .js-view-dom-id-[dom_id] { }
+// .view-header { }
+// .view-filters { }
+// .attachment { }
+// .attachment-before { }
+// .view-content { }
+// .view-empty { }
+// .attachment-after { }
+// .view-footer { }
+// .feed-icons { }
+
+
+// Views exposed form
+// file: views/views-exposed-form.html.twig
+// .form--inline { }
+// .clearfix { }
+
+
+// Views - View of unformatted rows
+// file: views/views-view-unformatted.html.twig
+// .views-row { }
+
+
+// Display rows in a grid
+// file: views/views-view-grid.html.twig
+// .views-view-grid { }
+// .[options.alignment] { }
+// .cols-[options.columns] { }
+// .clearfix { }
+// .views-row { }
+// .views-col { }
+// .row-[loop.index] { }
+// .col-[loop.index] { }
+
+
+// Views - View as table
+// file: views/views-view-table.html.twig
+// .views-table { }
+// .views-view-table { }
+// .cols-[header] { }
+// .responsive-enabled { }
+// .sticky-enabled { }
+// .views-field { }
+// .views-field-[fields[key]] { }
+// .views-field-[field] { }
+
+
+// Single views grouping
+// file: views/views-view-grouping.html.twig
+// .view-grouping { }
+// .view-grouping-header { }
+// .view-grouping-content { }
+
+
+// List of summary lines
+// file: views/views-view-summary.html.twig
+// .item-list { }
+// .views-summary { }
+// .is-active { }
+
+
+// Unformatted summary links
+// file: views/views-view-summary-unformatted.html.twig
+// .views-summary { }
+// .views-summary-unformatted { }
+// .is-active { }
+
+
+// Views mini pager
+// file: views/views-mini-pager.html.twig
+// .pager { }
+// .pager__heading { }
+// .visually-hidden { }
+// .pager__items { }
+// .js-pager__items { }
+// .pager__item { }
+// .pager__item--previous { }
+// .is-active { }
+// .pager__item--next { }

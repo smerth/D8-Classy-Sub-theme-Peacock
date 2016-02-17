@@ -1,0 +1,71 @@
+// FIELD
+
+// Basic
+// file: field/field.html.twig
+// .field { }
+// .field--name-[field_name] { }
+// .field--type-[field_type] { }
+// .field--label-[label_display] { }
+// .field__label { }
+// .visually-hidden { }
+// .field__items { }
+// .field__item { }
+
+
+// Node title field
+// file: field/field--node--title.html.twig
+// .field { }
+// .field--name-[field_name] { }
+// .field--type-[field_type] { }
+// .field--label-[label_display] { }
+
+
+// Node created field
+// file: field/field--node--created.html.twig
+// .field { }
+// .field--name-[field_name] { }
+// .field--type-[field_type] { }
+// .field--label-[label_display] { }
+
+
+// Node user field
+// file: field/field--node--uid.html.twig
+// .field { }
+// .field--name-[field_name] { }
+// .field--type-[field_type] { }
+// .field--label-[label_display] { }
+
+
+// Text field
+// file: field/field--text.html.twig
+// .clearfix { }
+// .text-formatted { }
+
+
+// Image field
+// file: field/image.html.twig
+// .image-style-[style_name] { }
+
+
+// Date/time element
+// file: field/time.html.twig
+// .datetime { }
+
+
+// Link with separate title and URL elements
+// file: field/link-formatter-link-separate.html.twig
+// .link-item { }
+// .link-title { }
+// .link-url { }
+
+
+// Comment field
+// file: field/field--comment.html.twig
+// .field { }
+// .field--name-[field_name] { }
+// .field--type-[field_type] { }
+// .field--label-[label_display] { }
+// .comment-wrapper { }
+// .title { }
+// .visually-hidden { }
+// .comment-form__title { }

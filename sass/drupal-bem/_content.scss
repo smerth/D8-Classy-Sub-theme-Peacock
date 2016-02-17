@@ -1,0 +1,71 @@
+//CONTENT
+
+// Page title
+
+// file: content/page-title.html.twig
+// .page-title h1 { }
+
+
+// Node
+
+// file: content/node.html.twig
+// .node { }
+// .node--type-[node.bundle] { }
+// .node--promoted { }
+// .node--sticky { }
+// .node--unpublished { }
+// .node--view-mode-[view_mode] { }
+// .node__meta { }
+// .node__submitted { }
+// .node__content { }
+
+// Node links
+
+// file: content/links--node.html.twig
+// .node__links { }
+
+
+// Taxonomy term
+
+// file: content/taxonomy-term.html.twig
+// .taxonomy-term { }
+// .vocabulary-[term.bundle] { }
+// .content { }
+
+
+// Search result
+
+// file: content/search-result.html.twig
+// .search-result__title { }
+// .search-result__snippet-info { }
+// .search-result__snippet { }
+// .search-result__info { }
+
+
+// Comment
+
+// file: content/comment.html.twig
+// .comment { }
+// .js-comment { }
+// .[status] { }
+// .by-anonymous { }
+// .by-[commented_entity.EntityTypeId]-author { }
+// .hidden { }
+// .comment__meta { }
+// .comment__submitted { }
+// .parent { }
+// .visually-hidden { }
+// .content { }
+
+
+// Aggregator item
+
+// file: content/aggregator-item.html.twig
+// .aggregator-item { }
+// .feed-item-title { }
+
+
+// Mark
+
+// file: content/mark.html.twig
+// .marker { }

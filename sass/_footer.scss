@@ -1,0 +1,12 @@
+.page-footer {
+  background-image: $footer-background-image;
+  color: $footer-text-color;
+  height: 200px;
+  margin-top: 50px;
+  padding: 20px 0;
+
+  a {
+    color: $footer-link-color;
+  }
+
+}
